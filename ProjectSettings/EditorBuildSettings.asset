@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Plugins/TyrAdsSDK/TyrAdsSDK_Demo.unity
+    guid: 372c6d69739c32a40856cc179f08cb0e
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: d5a01ed8758a4b947b6c521d42ad25aa, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 28f5b9f716732e74cad23a83e2ac14c7, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: fe831be5e65574149a1dcbc6f83293a3, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 54a10ba7c26ac294f972097a4ade1528, type: 2}
